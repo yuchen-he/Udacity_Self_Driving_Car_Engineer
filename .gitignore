@@ -3,3 +3,5 @@
 .cache
 .vscode/
 Thumbs.db
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
